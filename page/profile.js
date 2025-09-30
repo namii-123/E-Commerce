@@ -7,7 +7,7 @@ export function ProfilePage(navigate) {
       <header class="dashboard-header">
         <div class="logo">🛒 ShoppingSphere</div>
         <nav>
-          <button class="cart-btn"><i class="fas fa-shopping-bag"></i> Cart</button>
+        
           <div class="profile-dropdown">
             <button class="profile-btn" id="profile-toggle"><i class="fas fa-user-tie"></i> Profile</button>
             <div class="dropdown-menu" id="profile-menu">
